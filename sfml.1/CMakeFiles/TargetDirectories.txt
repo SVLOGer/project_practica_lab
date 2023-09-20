@@ -1,0 +1,5 @@
+E:/project practica/sfml.1/CMakeFiles/edit_cache.dir
+E:/project practica/sfml.1/CMakeFiles/rebuild_cache.dir
+E:/project practica/sfml.1/00/CMakeFiles/00.dir
+E:/project practica/sfml.1/00/CMakeFiles/edit_cache.dir
+E:/project practica/sfml.1/00/CMakeFiles/rebuild_cache.dir
