@@ -1,0 +1,14 @@
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/CMakeFiles/edit_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/CMakeFiles/rebuild_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/00/CMakeFiles/00.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/00/CMakeFiles/edit_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/00/CMakeFiles/rebuild_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/01/CMakeFiles/01.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/01/CMakeFiles/edit_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/01/CMakeFiles/rebuild_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/02/CMakeFiles/rebuild_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/02/CMakeFiles/02.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/02/CMakeFiles/edit_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/11/CMakeFiles/rebuild_cache.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/11/CMakeFiles/11.dir
+C:/Users/SVLOG/Desktop/project_practica_lab/project_practica_lab/sfml.1/11/CMakeFiles/edit_cache.dir
