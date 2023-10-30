@@ -1,1 +1,2 @@
-Hello world!
+cmake -G "MinGW Makefiles" .
+cmake --build .
